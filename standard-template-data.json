@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-09T05:27:58.146117887Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-09T05:30:38.706927729Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "hueandview.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13655",
     "ybsId": "",
     "tripPropertyId": "13655",
     "partnerType": "distributor_b",
@@ -241,16 +241,16 @@
         "displayOrder": 4,
         "images": [
           {
-            "id": "01a1be56-9a80-78e4-8441-5e9a58d0909a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a167c6-fa1d-779d-9b3f-46fab129abe1/main/1794194708655-j1xioki33a.jpg",
+            "id": "01a1be56-9b4d-7918-aebd-d49a502a2759",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a167c6-fa1d-779d-9b3f-46fab129abe1/main/1794194708640-skfb284h8b.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1be56-9b4d-7918-aebd-d49a502a2759",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a167c6-fa1d-779d-9b3f-46fab129abe1/main/1794194708640-skfb284h8b.jpg",
+            "id": "01a1be56-9a80-78e4-8441-5e9a58d0909a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a167c6-fa1d-779d-9b3f-46fab129abe1/main/1794194708655-j1xioki33a.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -1315,7 +1315,7 @@
                     "id": "01a1be75-6fa8-7a38-a9b9-3be433ab7e83",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794196728944-f4mdu1fhxl.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "남산뷰",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1323,7 +1323,7 @@
                     "id": "01a1be75-6fa7-7440-9d88-c15a6c6ab75d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794196729037-ywuwgt9230.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": " 힐링",
                     "isSelected": true,
                     "blockId": null
                   },
