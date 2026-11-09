@@ -1,0 +1,26 @@
+/* ============================================================
+   Theme CSS - 색상 및 폰트 정의 (동적 변경 가능)
+   배포 시 이 파일만 교체하면 됨
+   ============================================================ */
+
+/* ================================================================
+   CDN Fonts (폰트는 여기서 import)
+   ================================================================ */
+@import url("https://fonts.cdnfonts.com/css/travel-november");
+@import url('https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+
+:root {
+  /* ================================================================
+     Dynamic Colors (백오피스에서 변경 가능 - 2가지)
+     ================================================================ */
+  --color-primary: #dbdbdb;
+  --color-secondary: #245469;
+
+  /* ================================================================
+     Fonts (폰트는 필요에 따라 변경 가능)
+     ================================================================ */
+  --font-ko-main: 'Noto Serif KR', serif;
+  --font-ko-sub: 'MaruBuri', sans-serif;
+  --font-en-main: 'Travel November', serif;
+}
