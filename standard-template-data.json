@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-11-10T09:32:18.938679042Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-11-10T09:58:57.124327290Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -899,7 +899,7 @@
     {
       "id": "01a167d0-fcc4-70cd-81e0-ca3c9c66cb3f",
       "name": "D-105",
-      "description": "복층형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n15.1평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,식탁,전자레인지,커피포트",
+      "description": "독채형+복층형, 거실1+침대룸(더블침대1)+온돌룸(침구세트1)+주방1+화장실2\r\n26평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,식탁,전자레인지,커피포트",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -908,7 +908,7 @@
       "maxOccupancy": 8,
       "totalRoomCount": {
         "bedroom": 1,
-        "bathroom": 1,
+        "bathroom": 2,
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 1
@@ -981,7 +981,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1b274-d89e-76e1-958f-f2d55350cd88",
+              "id": "01a1c4cd-afab-7988-befc-8ceb17eb24e6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/IeKdukpHOb6q.jpg",
               "sortOrder": 1,
               "description": "",
@@ -991,7 +991,7 @@
           ],
           "interior": [
             {
-              "id": "01a1b274-d89e-7b48-805c-b0a04e77dd6d",
+              "id": "01a1c4cd-afac-7372-9800-722d7e4b4206",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/BEbYvQw7C2Zd.jpg",
               "sortOrder": 2,
               "description": "",
@@ -999,7 +999,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7b93-bf77-efd9225d61e0",
+              "id": "01a1c4cd-afac-73d6-ba7b-6d57223aa000",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/sYXIV5wdo36J.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1007,7 +1007,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7c57-87e9-7c514ff49e3d",
+              "id": "01a1c4cd-afac-7635-a43a-3e880b1ce888",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/PH2ZhkuJex0C.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1015,7 +1015,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7c8c-8fa8-a235d95b5def",
+              "id": "01a1c4cd-afac-76ab-abe4-9aab979b45e9",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/hCNXz1usroeU.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1023,7 +1023,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7e91-8806-beab3fce8887",
+              "id": "01a1c4cd-afac-77af-88e0-1c202df5e83c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/KVi67rwWTR4x.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1031,7 +1031,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7f0d-8138-908ce09ccd51",
+              "id": "01a1c4cd-afac-7860-a6b5-69c12bf345b9",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/6CJgdf0SAuk5.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1039,7 +1039,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89e-7f42-9e8a-4af93df4b75e",
+              "id": "01a1c4cd-afac-78c3-8616-b0483fd4cf30",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/dEPDahbIc3mV.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1047,7 +1047,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89f-7088-af10-7f25e040bf92",
+              "id": "01a1c4cd-afac-7a1d-ae51-e098f9924a5b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/cAERBQSwp3bK.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1055,7 +1055,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89f-70fc-b68c-18c4ef13dc60",
+              "id": "01a1c4cd-afac-7aaf-9f8d-64de7eae72cc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/0ijwezECZMx6.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1063,7 +1063,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89f-7136-8169-f34780b64fc6",
+              "id": "01a1c4cd-afac-7afa-aec5-eb804a0ca348",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/wr69hWi0YZGH.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1071,7 +1071,7 @@
               "blockId": null
             },
             {
-              "id": "01a1b274-d89f-73d6-8867-8d8475c08d11",
+              "id": "01a1c4cd-afac-7be9-84bd-46892fa19c92",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/nr3MlKQLWDwz.jpg",
               "sortOrder": 12,
               "description": "",
@@ -1791,8 +1791,8 @@
             "title": "",
             "images": [
               {
-                "id": "01a1c4cd-015e-7ecc-9780-6bf1276c2baf",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/popup/1794303130718-ncm7fezk6s.jpg",
+                "id": "01a1c4e5-79c7-78f2-abe0-3db9896fc887",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/popup/1794304735213-gq413u7513.jpg",
                 "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
