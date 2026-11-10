@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-11-10T07:23:55.007719352Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-11-10T07:27:32.292930647Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -1344,8 +1344,8 @@
                     "blockId": null
                   },
                   {
-                    "id": "01a1be75-705a-74e3-9caf-396462f85354",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794196729035-k5xlyjm61p.jpg",
+                    "id": "01a1c45a-d2d1-75a2-965c-e54191478a44",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794295648442-nejm3x40of.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
@@ -1416,8 +1416,8 @@
                     "blockId": null
                   },
                   {
-                    "id": "01a1c448-b69f-7230-912d-db4dd09346df",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794294461863-j2htr3xigc.jpg",
+                    "id": "01a1c45a-d250-7aaa-b944-dd05283f9909",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794295648449-ehrm63ukr4.jpg",
                     "sortOrder": 12,
                     "description": "",
                     "isSelected": true,
@@ -1462,8 +1462,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a1be76-e564-7faf-bc22-d272874e2e22",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_signature/1794196825114-zhnpnm0bjb.jpg",
+                    "id": "01a1c45a-d208-7c84-8fed-a9b3ac279e68",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_signature/1794295648447-hoek4kwkp2.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
