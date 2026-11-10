@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-11-10T07:29:20.589613517Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-11-10T09:32:18.938679042Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 체크인 마감 시간은 별도로 제한이 없습니다.",
-    "usageGuide": "- 애견 동반 불가\n- 인원 추가 시 펜션에 미리 연락 필요\n- 객실 내 직화 방식(생선, 고기 등) 구이 금지\n- 개인 취사도구(그릴, 숯, 전기/전열기구 등) 반입 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 체크인 마감 시간은 별도로 제한이 없습니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n - 이용 장소: 별도 바비큐장\n - 바베큐 형태: 전기그릴\n - 제공 구성: 전기 그릴, 기본양념(참기름, 소금)\n - 이용 요금: 2인 기준  20,000원/ 1인 추가 5,000원(1박기준/현장결제)\n - 신청 시간: 15:00 ~ 20:00\n - 이용 시간: 15:00 ~ 22:00\n - 우천 시: 이용 가능\n※ 바비큐장 이용 및 시간 설정은 입실 시 사전 신청 또는 현장 신청이 가능합니다. \n※ 숯불 바베큐는 펜션과 사전 협의를 통해 가능합니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 별도 바비큐장 운영\n- 바베큐 형태: 전기그릴\n- 제공 구성: 전기 그릴, 기본양념(참기름, 소금)\n- 이용 요금: 2인 기준  20,000원/ 1인 추가 5,000원(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 20:00\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 가능\n※ 바비큐장 이용 및 시간 설정은 입실 시 사전 신청 또는 현장 신청이 가능합니다. \n※ 105호(야외)는 숯불 바베큐가 가능하고, 우천 시에는 이용 불가능합니다.\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 6월 ~ 10월 중순\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 20:00\n- 이용 복장: 수영복\n- 구비항목: 튜브, 튜브펌프\n- 우천 시 이용 가능\n※ 어린이는 반드시 보호자 동반 시 이용이 가능합니다.\n※ 아이들의 안전한 물놀이를 위해 보호자께서는 세심한 주의를 기울여 주시길 바랍니다.\n\n[개별수영장]\n- 이용 객실: 101호, 102호, 103호\n- 운영 계절: 사계절\n- 온도:온수 , 냉수\n- 온수 이용 요금: 50,000원\n- 냉수 이용 요금: 30,000원\n- 이용 복장: 자유\n- 우천 시 이용 가능\n※ 이용 시간은 제한 없습니다.\n※ 어린이는 반드시 보호자 동반 시 이용이 가능합니다.\n※ 아이들의 안전한 물놀이를 위해 보호자께서는 세심한 주의를 기울여 주시길 바랍니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스, 디즈니+, 티빙 이용 가능\n※ 개인계정 필요\n- 보드게임 보유\n\n[주변여행지]\n- 경주남산(17분)\n- 황리단길(11분)\n- 대릉원(14분)\n- 첨성대(14분)\n- 동궁과월지(12분)\n- 보문관광단지(22분)\n- 불국사와석굴암(40분)\n- 화랑의언덕(42분)\n- 경주국립박물관(12분)\n※ 차량 거리입니다.\n\n[주차장]\n- 요금: 무료\n- 주차대수:10대\n- 위치:펜션 바로 앞",
+    "usageGuide": "[공지사항]\n- 애견 동반 불가\n- 인원 추가 시 펜션에 미리 연락 필요\n- 객실 내 직화 방식(생선, 고기 등) 구이 금지\n- 개인 취사도구(그릴, 숯, 전기/전열기구 등) 반입 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 체크인 마감 시간은 별도로 제한이 없습니다.\n\n[공용바베큐]\n- 이용 객실: 전 객실\n - 이용 장소: 별도 바비큐장\n - 바베큐 형태: 전기그릴\n - 제공 구성: 전기 그릴, 기본양념(참기름, 소금)\n - 이용 요금: 2인 기준  20,000원/ 1인 추가 5,000원(1박기준/현장결제)\n - 신청 시간: 15:00 ~ 20:00\n - 이용 시간: 15:00 ~ 22:00\n - 우천 시: 이용 가능\n※ 바비큐장 이용 및 시간 설정은 입실 시 사전 신청 또는 현장 신청이 가능합니다. \n※ 숯불 바베큐는 펜션과 사전 협의를 통해 가능합니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 별도 바비큐장 운영\n- 바베큐 형태: 전기그릴\n- 제공 구성: 전기 그릴, 기본양념(참기름, 소금)\n- 이용 요금: 2인 기준  20,000원/ 1인 추가 5,000원(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 20:00\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 가능\n※ 바비큐장 이용 및 시간 설정은 입실 시 사전 신청 또는 현장 신청이 가능합니다. \n※ 105호(야외)는 숯불 바베큐가 가능하고, 우천 시에는 이용 불가능합니다.\n\n[공용수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 하절기\n- 운영 기간: 6월 ~ 10월 중순\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 20:00\n- 이용 복장: 수영복\n- 구비항목: 튜브, 튜브펌프\n- 우천 시 이용 가능\n※ 어린이는 반드시 보호자 동반 시 이용이 가능합니다.\n※ 아이들의 안전한 물놀이를 위해 보호자께서는 세심한 주의를 기울여 주시길 바랍니다.\n\n[개별수영장]\n- 이용 객실: 101호, 102호, 103호\n- 운영 계절: 사계절\n- 온도:온수 , 냉수\n- 온수 이용 요금: 50,000원\n- 냉수 이용 요금: 30,000원\n- 이용 복장: 자유\n- 우천 시 이용 가능\n※ 이용 시간은 제한 없습니다.\n※ 어린이는 반드시 보호자 동반 시 이용이 가능합니다.\n※ 아이들의 안전한 물놀이를 위해 보호자께서는 세심한 주의를 기울여 주시길 바랍니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스, 디즈니+, 티빙 이용 가능\n※ 개인계정 필요\n- 보드게임 보유\n\n[주변여행지]\n- 천마종(5분)\n- 경주남산(17분)\n- 황리단길(5분)\n- 대릉원(14분)\n- 첨성대(14분)\n- 동궁과월지(10분)\n- 보문관광단지(15분)\n- 불국사와석굴암(40분)\n- 화랑의언덕(42분)\n- 경주국립박물관(10분)\n※ 차량 거리입니다.\n\n[주차장]\n- 요금: 무료\n- 주차대수:10대\n- 위치:펜션 바로 앞\n\n[교통편]\n- 경주 Tollgate 에서 5분 거리",
     "reservationGuide": "- 애견 동반 불가\n- 인원 추가 시 펜션에 미리 연락 필요\n- 객실 내 직화 방식(생선, 고기 등) 구이 금지\n- 개인 취사도구(그릴, 숯, 전기/전열기구 등) 반입 금지",
     "province": "도/시",
     "city": "시/군/구",
@@ -253,7 +253,7 @@
         "id": "01a167c6-fa1d-779d-9b3f-46fab129abe1",
         "name": "편의 및 주변 시설",
         "description": "",
-        "usageGuide": "- 와이파이 보유\n- 넷플릭스, 디즈니+, 티빙 이용 가능\n※ 개인계정 필요\n- 보드게임 보유\n\n[주변여행지]\n- 경주남산(17분)\n- 황리단길(11분)\n- 대릉원(14분)\n- 첨성대(14분)\n- 동궁과월지(12분)\n- 보문관광단지(22분)\n- 불국사와석굴암(40분)\n- 화랑의언덕(42분)\n- 경주국립박물관(12분)\n※ 차량 거리입니다.",
+        "usageGuide": "- 와이파이 보유\n- 넷플릭스, 디즈니+, 티빙 이용 가능\n※ 개인계정 필요\n- 보드게임 보유\n\n[주변여행지]\n- 천마종(5분)\n- 경주남산(17분)\n- 황리단길(5분)\n- 대릉원(14분)\n- 첨성대(14분)\n- 동궁과월지(10분)\n- 보문관광단지(15분)\n- 불국사와석굴암(40분)\n- 화랑의언덕(42분)\n- 경주국립박물관(10분)\n※ 차량 거리입니다.",
         "displayOrder": 5,
         "images": [
           {
@@ -348,9 +348,9 @@
       {
         "thumbnail": [
           {
-            "id": "01a1b04d-d9ff-7aec-9f30-3f194e611e72",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/9mIcObsEoQe2.jpg",
-            "sortOrder": 0,
+            "id": "01a1c45e-051b-75f8-936f-dcccdaa62fb3",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/AdWeQCk17L4h.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,97 +358,97 @@
         ],
         "exterior": [
           {
-            "id": "01a1b04d-da00-71ce-b0f0-3ab3b42d97f9",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/c6HTSR9AdXIf.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1b04d-da00-757a-8a45-5cf10a32fa7e",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/hA9QMCb8WnXw.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1b04d-da00-77f8-818e-fd1579909c45",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/Dkn5ft1lREQm.jpg",
+            "id": "01a1c45e-051b-7640-98b5-c9f74c08f22b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/U0OfzNhKA21Z.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da00-7a70-8bff-631bab40c2ad",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/FQ0Te7RfDoVj.jpg",
+            "id": "01a1c45e-051b-7679-b25b-4b6830113161",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/kvICKQbEzoM7.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da00-7c57-bdd6-efd3360915d8",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/Q0OHRAu1SyEc.jpg",
+            "id": "01a1c45e-051b-76db-886a-1c65679f00b7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/3hRHUZSwv9pM.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da00-7df9-8358-4ef5250c4045",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/ptz6kB2slmxQ.jpg",
+            "id": "01a1c45e-051b-7717-915a-409a00bf66e5",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/UIfSyeaHKhR7.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da00-7f6f-922d-fd98dafb802c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/3Bdf1j8LSJ4t.jpg",
+            "id": "01a1c45e-051b-774a-b8db-7e103ad5bfe1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/WYUNvo9KqImy.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da01-70d2-b368-b9067f313916",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/N7RHJp1PWEty.jpg",
+            "id": "01a1c45e-051b-777c-93fa-76109e4792af",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/dLTZ1Hrehxnq.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da01-7228-b040-ad3e0336c81d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/EfAn17tHKc0S.jpg",
+            "id": "01a1c45e-051b-77be-b9e3-143362ee2d3d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/DCfuEj6yhGiA.jpg",
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da01-738e-a96e-adb36ec03696",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/UWAnG9qvgROI.jpg",
+            "id": "01a1c45e-051b-78c0-a3ed-affb9758e8bd",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/8vOsixTRBkoq.jpg",
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da01-75a4-8d94-5f31c5425029",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/vTtrOImgKl4R.jpg",
+            "id": "01a1c45e-051b-7925-b436-33c9142ec764",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/0u6ACnmbkJez.jpg",
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1b04d-da01-7725-85d3-fc8e1abbb705",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/DzBZA3L6eJgb.jpg",
+            "id": "01a1c45e-051b-795d-9bc4-cbe5eb9296eb",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/mUqls5zxo269.jpg",
             "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1c45e-051b-798b-8702-6cbdf00cad32",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/zZO2VGAtPnHT.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1c45e-051b-79a5-8345-4b9ecdd01c46",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/73e6y1bSQDxK.jpg",
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1784,7 +1784,30 @@
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "a5cc35af-5542-4027-a6da-35ed7246f5b7",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a1c4cd-015e-7ecc-9780-6bf1276c2baf",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/popup/1794303130718-ncm7fezk6s.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "a5cc35af-5542-4027-a6da-35ed7246f5b7"
+              }
+            ],
+            "slider": false,
+            "videos": [ ],
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
