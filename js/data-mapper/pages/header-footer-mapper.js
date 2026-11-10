@@ -36,6 +36,30 @@ function consultText(v) {
   return v === undefined || v === null ? '' : String(v).trim();
 }
 
+  // 백오피스가 전달한 실시간 달력 링크가 http(s) URL일 때만 푸터에 노출한다.
+  function mapFooterCalendar(data) {
+    var homepageFields = data && data.homepage && data.homepage.customFields;
+    var fields = homepageFields || (data && data.customFields) || {};
+    var raw = fields.footer && fields.footer.calendarUrl;
+    var value = typeof raw === 'string' ? raw.trim() : '';
+    var valid = false;
+    if (/^https?:\/\//i.test(value)) {
+      try {
+        var parsed = new URL(value);
+        valid = (parsed.protocol === 'http:' || parsed.protocol === 'https:') && !!parsed.hostname;
+      } catch (error) {
+        valid = false;
+      }
+    }
+    document.querySelectorAll('[data-calendar-wrap]').forEach(function (el) {
+      el.style.display = valid ? '' : 'none';
+    });
+    document.querySelectorAll('[data-calendar-link]').forEach(function (el) {
+      if (valid) el.setAttribute('href', value);
+      else el.removeAttribute('href');
+    });
+  }
+
 var HeaderFooterMapper = {
   // 숙소 한글명: customFields.property.name 우선, 없으면 property.name (C/D/E 동일 컨벤션)
   getPropertyName: function(data) {
@@ -413,6 +437,7 @@ var HeaderFooterMapper = {
   },
 
   mapFooter: function(data) {
+    mapFooterCalendar(data);
     if (!data || !data.property) return;
 
     this.mapCopyright(data);
