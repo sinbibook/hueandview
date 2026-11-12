@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-11-12T00:31:18.152228296Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-11-12T00:34:52.523009337Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -1423,8 +1423,8 @@
                     "blockId": null
                   },
                   {
-                    "id": "01a1c45a-d250-7aaa-b944-dd05283f9909",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794295648449-ehrm63ukr4.jpg",
+                    "id": "01a1cd2d-a2a1-7f42-a872-00bee22dd1a0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/index_hero/1794443681863-wpxdbaywdp.jpg",
                     "sortOrder": 12,
                     "description": "",
                     "isSelected": true,
@@ -1562,8 +1562,8 @@
                     "blockId": null
                   },
                   {
-                    "id": "01a1beb2-788b-7e93-8800-c5f9748d5928",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/main_hero/1794200729301-g38vquhfui.jpg",
+                    "id": "01a1cd2d-a3c8-7905-ad19-fea1f09e6616",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/main_hero/1794443681930-criar5f2xk.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
@@ -1905,8 +1905,8 @@
             "category": "property_exterior"
           },
           {
-            "id": "01a1be75-704f-72a2-b63d-88db12e59e1e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/property_exterior/1794196729139-15p8p7sr1e.jpg",
+            "id": "01a1cd2d-a2c1-7f2d-b358-4c2eadb1a457",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/property_exterior/1794443681864-3qo7wunlo8.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
