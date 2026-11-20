@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-11-19T06:00:07.053607984Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-11-20T07:55:15.222801666Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -350,8 +350,8 @@
       {
         "thumbnail": [
           {
-            "id": "01a1c45e-051b-75f8-936f-dcccdaa62fb3",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/10/AdWeQCk17L4h.jpg",
+            "id": "01a1f264-ecc1-7a9b-9cda-fc558ddd552a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/19/nZadh2jOTWRf.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -1191,7 +1191,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1f24a-f910-76c4-ac9e-62be6b617bd4",
+              "id": "01a1f583-0fa5-7f6a-a1c7-9578e63eb1e4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/bR2u4UxBDMO3.jpg",
               "sortOrder": 1,
               "description": "",
@@ -1201,7 +1201,7 @@
           ],
           "interior": [
             {
-              "id": "01a1f24a-f910-7899-9e8d-94b94a0e7a02",
+              "id": "01a1f583-0fa5-7fe1-9b1a-c05527121831",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/DR6IaB4hvp89.jpg",
               "sortOrder": 2,
               "description": "",
@@ -1209,7 +1209,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f910-7a43-a087-03b22afcffdb",
+              "id": "01a1f583-0fa6-711b-84af-cec021172236",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/sPaNqpkdS2GT.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1217,7 +1217,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f910-7b95-b094-44dbf38d209b",
+              "id": "01a1f583-0fa6-7145-bc56-b9fc21e3722f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/Sg7XQo8L0JDm.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1225,7 +1225,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f910-7cd7-a449-10ef7210cc94",
+              "id": "01a1f583-0fa6-7294-9ec7-f24c0c502708",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/wiF4ng7YWNSl.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1233,7 +1233,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f910-7e7e-a56d-a1730e2d115c",
+              "id": "01a1f583-0fa6-72c0-b1ae-bd398f160bc4",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/V1DNQbMFHfsx.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1241,7 +1241,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f910-7f01-aaac-517df36aa537",
+              "id": "01a1f583-0fa6-7315-b527-c7bb52cb7823",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/7ePZ5qT6bg2E.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1249,7 +1249,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f911-7073-a298-1092bdd18398",
+              "id": "01a1f583-0fa6-737d-8adf-6788f91aad91",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/WpeaG5Cbf2mx.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1257,7 +1257,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f911-7287-8a69-02c7ac660381",
+              "id": "01a1f583-0fa6-73d2-a258-705b4784a162",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/RNbamKv0wupS.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1265,7 +1265,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f911-74ba-82f9-020f6946fe54",
+              "id": "01a1f583-0fa6-745d-bd4c-243324503a08",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/ITnOHbaxSA7l.jpg",
               "sortOrder": 10,
               "description": "",
@@ -1273,7 +1273,7 @@
               "blockId": null
             },
             {
-              "id": "01a1f24a-f911-7682-9d16-e2c528c9b555",
+              "id": "01a1f583-0fa6-76ba-9413-3fa08533d601",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/19/xSDYZVTIqNaw.jpg",
               "sortOrder": 11,
               "description": "",
