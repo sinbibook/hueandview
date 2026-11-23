@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.49.0",
-    "generatedAt": "2026-11-20T08:21:18.129478549Z",
+    "version": "1.50.0",
+    "generatedAt": "2026-11-23T01:11:33.213202771Z",
     "templateType": "trip_l",
     "propertyId": "01a1483c-618d-7099-88ba-f3c2476fde63",
     "homepageId": "01a1be59-261b-7fae-9367-06041d9c9a13"
@@ -1874,8 +1874,8 @@
         "nameEn": "Gyeongju Hue & View Namsan Pension",
         "images": [
           {
-            "id": "01a1be75-7052-785f-b72c-7dcdbed46e2f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/property_thumbnail/1794196729032-qv4g2k8k4v.jpg",
+            "id": "01a205f5-4ca1-794c-9f19-0a70d2c191a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1be59-261b-7fae-9367-06041d9c9a13/property_thumbnail/1795396291348-e05dzylxyr.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
