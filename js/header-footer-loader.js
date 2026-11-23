@@ -222,14 +222,20 @@ var HeaderFooterLoader = {
         con3SwiperEl.swiper.destroy(true, true);
       }
 
+      var con3SlideCount = con3Container.querySelectorAll('.swiper-slide').length;
+      // 객실이 1개면 넘길 슬라이드가 없으니 < | > 버튼 묶음(.swiperNavi)을 PC·모바일 모두 숨긴다.
+      // 미리보기에서 객실 수가 바뀌어 다시 그릴 때를 위해 2개 이상이면 원래대로 되돌린다.
+      var con3Navi = con3Container.querySelector('.swiperNavi');
+      if (con3Navi) con3Navi.style.display = con3SlideCount > 1 ? '' : 'none';
+
       new Swiper(con3Container.querySelector(".swiper-container"), {
         slidesPerView: 1,
-        loop: con3Container.querySelectorAll('.swiper-slide').length > 1, // 슬라이드 부족 시 loop 비활성 (Swiper 경고 방지)
+        loop: con3SlideCount > 1, // 슬라이드 부족 시 loop 비활성 (Swiper 경고 방지)
         effect: "fade",
-        autoplay: {
+        autoplay: con3SlideCount > 1 ? {
           delay: 4000,
           disableOnInteraction: false,
-        },
+        } : false,
         navigation: {
           nextEl: con3Container.querySelector(".swiper-button-next"),
           prevEl: con3Container.querySelector(".swiper-button-prev"),
